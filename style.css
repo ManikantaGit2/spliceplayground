@@ -1,0 +1,54 @@
+.main {
+    height: 500px;
+    width: 600px;
+    background-color: antiquewhite;
+    padding-top: 20px;
+  
+}
+.input-label {
+   
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    height: 30px;
+    width: 120px;
+    font-size: 12px;
+    font-weight: bold;
+  
+}
+.values {
+    margin-top: 60px;
+    margin-left: 10px;
+}
+.delete {
+    margin-left: 200px;
+    margin-top: -65px;
+}
+.item {
+    margin-left: 400px;
+    margin-top: -65px;
+}
+.button {
+    margin-top: 70px;
+    background-color: rgb(49, 49, 163);
+    color: white;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: antiquewhite;
+    height: 40px;
+    width: 90px;
+    margin-left: 230px;
+}
+.updated-array {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+.updated-array-container {
+    background-color: #f3f3f3;
+    padding: 20px;
+    width: 200px;
+}
+.heading {
+    text-align: center;
+}
